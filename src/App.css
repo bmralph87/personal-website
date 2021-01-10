@@ -1,38 +1,66 @@
-.App {
-  text-align: center;
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  background-size: cover;
+  color: whitesmoke;
+  background-color: black;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar-item {
+  color: rgb(180, 201, 202);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.list-group {
+  color: rgb(180, 201, 202);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+/* apply styles to <header> */
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+  text-decoration-style: wavy;
+  padding: 20px 35px;
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  z-index: 9999;
 }
 
-.App-link {
-  color: #61dafb;
+
+/* HERO SECTION BEGINS */
+
+h2 {
+  color: whitesmoke;
+  text-decoration: underline;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+h2 img {
+flex-wrap: wrap;
+align-content: flex-end;
 }
+
+p {
+  color: whitesmoke;
+  font-weight: normal;
+}
+
+p image {
+  color: black;
+}
+
+.h3 {
+color: black;
+}
+
+a:visited {
+color: whitesmoke;
+}
+
+a:link {
+  color: whitesmoke;
+}
+
+a:hover {
+  color: red;
+}
+
