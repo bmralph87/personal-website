@@ -4,7 +4,7 @@ function Footer() {
 
     return (
         <section className="my-5" >
-            <h1 id="about">CONTACT INFO</h1>
+            <h1 id="about">MY CONTACT INFO</h1>
             <div className="my-2">
                 <p>
                     Phone: 267.454.5552<br />

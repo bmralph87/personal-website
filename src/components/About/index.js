@@ -7,7 +7,7 @@ function About() {
   return (
     <section className="my-5" >
       <h1 id="about">ALL ABOUT ME</h1>
-      <img src={glassesImage} className="my-2" style={{ height: "100px" }} alt="glasses" />
+      <img src={glassesImage} className="my-2" style={{ height: "70px" }} alt="glasses" />
       <div className="my-2">
         <p>
           I was born and raised in West Philadelphia. I live with my fiancé and cat daughter

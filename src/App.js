@@ -17,8 +17,8 @@ function App() {
       <Nav />
       <main>
         <About />
-        <ContactForm />
         <Project />
+        <ContactForm />
       </main>
       <footer>
         <Footer />
