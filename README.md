@@ -2,7 +2,7 @@
 
 This project was created via Create React App an assignment for the PennLPS/TES Fullstack Bootcamp.
 
-<img src= "Develop/Screen Shot 2020-10-17 at 5.16.43 PM copy.jpg">
+<img src= "Portfolio screenshot.jpg">
 
 
 ## Tools used for this project
