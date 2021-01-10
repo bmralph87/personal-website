@@ -37,7 +37,3 @@ Personal Website is the portfolio of my work.  Components include Header, Footer
 
 
 
-## Honorable Mention:
-
-Shout out to Debra Sparr, George Yoo and Lucianne Vazquez for all of their help!! 😁
-
