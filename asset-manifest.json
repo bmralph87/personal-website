@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.a86d4f73.chunk.css",
+    "main.css": "/personal-website/static/css/main.a610222c.chunk.css",
     "main.js": "/personal-website/static/js/main.9fbf0d2c.chunk.js",
     "main.js.map": "/personal-website/static/js/main.9fbf0d2c.chunk.js.map",
     "runtime-main.js": "/personal-website/static/js/runtime-main.530e9a39.js",
@@ -10,7 +10,7 @@
     "static/js/3.8b0ea581.chunk.js": "/personal-website/static/js/3.8b0ea581.chunk.js",
     "static/js/3.8b0ea581.chunk.js.map": "/personal-website/static/js/3.8b0ea581.chunk.js.map",
     "index.html": "/personal-website/index.html",
-    "static/css/main.a86d4f73.chunk.css.map": "/personal-website/static/css/main.a86d4f73.chunk.css.map",
+    "static/css/main.a610222c.chunk.css.map": "/personal-website/static/css/main.a610222c.chunk.css.map",
     "static/js/2.8fd69d16.chunk.js.LICENSE.txt": "/personal-website/static/js/2.8fd69d16.chunk.js.LICENSE.txt",
     "static/media/200wtemple.57040aef.webp": "/personal-website/static/media/200wtemple.57040aef.webp",
     "static/media/PetPurrfect copy.0edf815a.jpg": "/personal-website/static/media/PetPurrfect copy.0edf815a.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.530e9a39.js",
     "static/js/2.8fd69d16.chunk.js",
-    "static/css/main.a86d4f73.chunk.css",
+    "static/css/main.a610222c.chunk.css",
     "static/js/main.9fbf0d2c.chunk.js"
   ]
 }
