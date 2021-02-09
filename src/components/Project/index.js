@@ -3,6 +3,7 @@ import heroBG from "../../assets/images/hero-bg.jpg";
 import weatherImg from "../../assets/images/Screen Shot 2020-09-27 at 1.40.53 PM copy.jpg";
 import petImg from "../../assets/images/PetPurrfect copy.jpg";
 import watchImg from "../../assets/images/WATCH&SIP SCREENSHOT 1.jpg";
+import flickedImg from "../../assets/images/FlickedSshot.jpg";
 
 function Project() {
 
@@ -13,11 +14,13 @@ function Project() {
                 <a href="https://bmralph87.github.io/bmralph87.github.io-run-buddy/">RUN BUDDY</a>
                 <img src={heroBG} height="50" />
                  <a href="https://bmralph87.github.io/weatherapp/">WEATHER APP</a>
-                <img src={weatherImg}  height="50" /> 
+                <img src={weatherImg}  height="50" width="400"  /> 
                 <a href="https://bmralph87.github.io/cats/">PET PURRFECT</a>
-                <img src={petImg} height="50" />
+                <img src={petImg} height="50" width="300" />
                 <a href="https://quiet-ocean-97053.herokuapp.com/">WATCH & SIP</a>
                 <img src={watchImg} height="50" />
+                <a href="https://flicked-mern.herokuapp.com/">FLICKED</a>
+                <img src={flickedImg} height="20" length="20" />
             </div>
         </section>
     )
